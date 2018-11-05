@@ -1,0 +1,5 @@
+Song.new("song-one", "artist_one",1992,true,"rap")
+Song.new("song-two", "artist_two",1992,true,"pop")
+Song.new("song-three", "artist_three",1998,true,"rock")
+Song.new("song-four", "artist_four",2017,false,"rap")
+Song.new("song-five", "artist_five",2002,true,"boring")
